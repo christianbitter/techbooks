@@ -15,7 +15,6 @@ https://www.cs.princeton.edu/courses/archive/fall06/cos341/handouts/mathcs.pdf
 **E. E. Holmes, M. D. Scheuerell, and E. J. Ward: Applied Time Series Analysis for Fisheries and Environmental Sciences**  
 https://nwfsc-timeseries.github.io/atsa-labs/
 
-
 **M. Kuhn and K. Johnson: Feature Engineering and Selection: A Practical Approach for Predictive Models (2019 Ed.)**  
 https://bookdown.org/max/FES/
 
@@ -24,3 +23,9 @@ https://r4ds.had.co.nz/
 
 **C. Molnar: Interpretable Machine Learning - A Guide for Making Black Box Models Explainable (2020 Ed.)**  
 https://christophm.github.io/interpretable-ml-book/
+
+**C. Ismay and A. Y. Kim: Statistical Inference via Data Science - A ModernDive into R and the tidyverse (2019 Ed.)**  
+https://moderndive.com/index.html
+
+**A. Reinhart: Statistics Done Wrong - The woefully complete guide**  
+https://www.statisticsdonewrong.com/

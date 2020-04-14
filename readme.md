@@ -22,4 +22,5 @@ https://bookdown.org/max/FES/
 **G. Grolemund, and H. Wickham: R for Data Science**  
 https://r4ds.had.co.nz/
 
-
+**C. Molnar: Interpretable Machine Learning - A Guide for Making Black Box Models Explainable (2020 Ed.)**  
+https://christophm.github.io/interpretable-ml-book/

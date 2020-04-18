@@ -29,3 +29,9 @@ https://moderndive.com/index.html
 
 **A. Reinhart: Statistics Done Wrong - The woefully complete guide**  
 https://www.statisticsdonewrong.com/
+
+**T. Carilli: R Companion to Real Econometrics (2019 Ed.)**
+https://bookdown.org/carillitony/bailey/
+
+**Y. Xie, A. Thomas, A. Presmanes Hill: blogdown: Creating Websites with R Markdown (2020 Ed.)**
+https://bookdown.org/yihui/blogdown/

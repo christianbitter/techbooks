@@ -35,3 +35,18 @@ https://bookdown.org/carillitony/bailey/
 
 **Y. Xie, A. Thomas, A. Presmanes Hill: blogdown: Creating Websites with R Markdown (2020 Ed.)**  
 https://bookdown.org/yihui/blogdown/
+
+**B. Caffo: Statistical inference for data science**  
+https://leanpub.com/LittleInferenceBook
+
+**B. Caffo: Regression Models for Data Science in R**  
+https://leanpub.com/regmods
+
+**B. Caffo: Advanced Linear Models for Data Science**  
+https://leanpub.com/lm
+
+""B. Rodrigues: Functional programming and unit testing for data munging with R (2017 Ed.""  
+https://b-rodrigues.github.io/fput/
+
+**B. Rodrigues: Modern R with the tidyverse (2020 Ed.)**  
+https://b-rodrigues.github.io/modern_R/

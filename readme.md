@@ -27,6 +27,9 @@ https://bookdown.org/carillitony/bailey/
 **E. E. Holmes, M. D. Scheuerell, and E. J. Ward: Applied Time Series Analysis for Fisheries and Environmental Sciences**  
 https://nwfsc-timeseries.github.io/atsa-labs/
 
+**R. J. Hyndman, and G. Athanasopoulos: Forecasting: Principles and Practice (2018 Ed.)**  
+https://otexts.com/fpp2/
+
 # Modeling Process
 
 **M. Kuhn and K. Johnson: Feature Engineering and Selection: A Practical Approach for Predictive Models (2019 Ed.)**  

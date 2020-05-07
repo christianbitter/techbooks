@@ -11,6 +11,7 @@ Computational X Repository
 1. [R](#r)
 1. [Interpretability](#interpretability)
 1. [General](#general)
+1. [Natural Language Processing](#natural-language-processing)
 
 <!-- /MarkdownTOC -->
 
@@ -98,3 +99,12 @@ https://leanpub.com/regmods
 
 **B. Caffo: Advanced Linear Models for Data Science**  
 https://leanpub.com/lm
+
+<a id="natural-language-processing"></a>
+# Natural Language Processing
+
+**A. Clark, C. Fox, and S. Laplin: The Handbook of Computational Linguistics and Natural Language Processing (2010)**  
+http://course.duruofei.com/wp-content/uploads/2015/05/Clark_Computational-Linguistics-and-Natrual-Language-Processing.pdf
+
+**J. Eisenstein:  Natural Language Processing (2018 Ed.)**
+https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf

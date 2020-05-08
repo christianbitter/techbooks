@@ -12,6 +12,8 @@ Computational X Repository
 1. [Interpretability](#interpretability)
 1. [General](#general)
 1. [Natural Language Processing](#natural-language-processing)
+1. [Machine Learning](#machine-learning)
+	1. [Semi-Supervised Learning](#semi-supervised-learning)
 
 <!-- /MarkdownTOC -->
 
@@ -49,6 +51,7 @@ https://nwfsc-timeseries.github.io/atsa-labs/
 **R. J. Hyndman, and G. Athanasopoulos: Forecasting: Principles and Practice (2018 Ed.)**  
 https://otexts.com/fpp2/
 
+<a id="modeling-process"></a>
 # Modeling Process
 
 **M. Kuhn and K. Johnson: Feature Engineering and Selection: A Practical Approach for Predictive Models (2019 Ed.)**  
@@ -111,10 +114,11 @@ http://course.duruofei.com/wp-content/uploads/2015/05/Clark_Computational-Lingui
 **J. Eisenstein:  Natural Language Processing (2018 Ed.)**
 https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf
 
+<a id="machine-learning"></a>
 # Machine Learning
 
+<a id="semi-supervised-learning"></a>
 ## Semi-Supervised Learning
 
 **O. Chapelle, B. Scholkopf, A. Zien: Semi-Supervised Learning (2006 Ed.)**  
 https://www.molgen.mpg.de/3659531/MITPress--SemiSupervised-Learning.pdf
->>>>>>> 0036a4b4476c630184bd5b38551b355c58f2a0f8

@@ -100,3 +100,10 @@ https://leanpub.com/regmods
 
 **B. Caffo: Advanced Linear Models for Data Science**  
 https://leanpub.com/lm
+
+# Machine Learning
+
+## Semi-Supervised Learning
+
+**O. Chapelle, B. Scholkopf, A. Zien: Semi-Supervised Learning (2006 Ed.)**  
+https://www.molgen.mpg.de/3659531/MITPress--SemiSupervised-Learning.pdf

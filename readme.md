@@ -9,6 +9,9 @@ Computational X Repository
 1. [Modeling Process](#modeling-process)
 1. [Spatial Data](#spatial-data)
 1. [R](#r)
+	1. [Language](#language)
+	1. [Package and Ecosystem](#package-and-ecosystem)
+	1. [Data Science](#data-science)
 1. [Interpretability](#interpretability)
 1. [General](#general)
 1. [Natural Language Processing](#natural-language-processing)
@@ -51,6 +54,10 @@ https://nwfsc-timeseries.github.io/atsa-labs/
 **R. J. Hyndman, and G. Athanasopoulos: Forecasting: Principles and Practice (2018 Ed.)**  
 https://otexts.com/fpp2/
 
+
+**M. Falk: A First Course onTime Series AnalysisExamples with SAS (2011)**  
+https://www.uni-wuerzburg.de/fileadmin/10040800/user_upload/time_series/the_book/2011-March-01-times.pdf
+
 <a id="modeling-process"></a>
 # Modeling Process
 
@@ -66,8 +73,8 @@ https://keen-swartz-3146c4.netlify.app/
 <a id="r"></a>
 # R
 
-**G. Grolemund, and H. Wickham: R for Data Science**  
-https://r4ds.had.co.nz/
+<a id="language"></a>
+## Language
 
 **P. Burns: The R Inferno**  
 https://www.burns-stat.com/documents/books/the-r-inferno/
@@ -75,8 +82,20 @@ https://www.burns-stat.com/documents/books/the-r-inferno/
 **B. Rodrigues: Functional programming and unit testing for data munging with R (2017 Ed.**  
 https://b-rodrigues.github.io/fput/
 
+<a id="package-and-ecosystem"></a>
+## Package and Ecosystem
+
 **B. Rodrigues: Modern R with the tidyverse (2020 Ed.)**  
 https://b-rodrigues.github.io/modern_R/
+
+<a id="data-science"></a>
+## Data Science
+
+**G. Grolemund, and H. Wickham: R for Data Science**  
+https://r4ds.had.co.nz/
+
+**R. A. Irizarry: Introduction to Data Science - Data Analysis and Prediction Algorithms with R (2020 Ed.)**  
+https://rafalab.github.io/dsbook/
 
 <a id="interpretability"></a>
 # Interpretability

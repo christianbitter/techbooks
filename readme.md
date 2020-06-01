@@ -12,6 +12,7 @@ Computational X Repository
 1. [Interpretability](#interpretability)
 1. [General](#general)
 1. [Natural Language Processing](#natural-language-processing)
+1. [PyTorch](#pytorch)
 
 <!-- /MarkdownTOC -->
 
@@ -49,6 +50,10 @@ https://nwfsc-timeseries.github.io/atsa-labs/
 **R. J. Hyndman, and G. Athanasopoulos: Forecasting: Principles and Practice (2018 Ed.)**  
 https://otexts.com/fpp2/
 
+**R. H. Shumway, and D. S. Stoffer: Time Series Analysis and Its Applications With R Examples (4th Edition)**  
+https://www.stat.pitt.edu/stoffer/tsa4/tsa4.pdf
+
+<a id="modeling-process"></a>
 # Modeling Process
 
 **M. Kuhn and K. Johnson: Feature Engineering and Selection: A Practical Approach for Predictive Models (2019 Ed.)**  
@@ -110,3 +115,9 @@ http://course.duruofei.com/wp-content/uploads/2015/05/Clark_Computational-Lingui
 
 **J. Eisenstein:  Natural Language Processing (2018 Ed.)**
 https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf
+
+<a id="pytorch"></a>
+# PyTorch
+
+**Unkown: Torch book (2020 Ed.)**  
+https://mlverse.github.io/torchbook/

@@ -12,7 +12,7 @@ Computational X Repository
     1. [Language](#language)
     1. [Package and Ecosystem](#package-and-ecosystem)
     1. [Data Science](#data-science)
-1. [Interpretability](#interpretability)
+1. [Model Explainability & Interpretability](#model-explainability--interpretability)
 1. [General](#general)
 1. [Natural Language Processing](#natural-language-processing)
 1. [PyTorch](#pytorch)
@@ -92,6 +92,9 @@ https://b-rodrigues.github.io/fput/
 **B. Rodrigues: Modern R with the tidyverse (2020 Ed.)**  
 https://b-rodrigues.github.io/modern_R/
 
+**H. Wickham - R Packages: Organize, Test, Document, and Share Your Code (1st Ed.)**  
+http://r-pkgs.had.co.nz/
+
 <a id="data-science"></a>
 ## Data Science
 
@@ -101,14 +104,18 @@ https://r4ds.had.co.nz/
 **R. A. Irizarry: Introduction to Data Science - Data Analysis and Prediction Algorithms with R (2020 Ed.)**  
 https://rafalab.github.io/dsbook/
 
-<a id="interpretability"></a>
-# Interpretability
+<a id="model-explainability--interpretability"></a>
+# Model Explainability & Interpretability
 
 **C. Molnar: Interpretable Machine Learning - A Guide for Making Black Box Models Explainable (2020 Ed.)**  
 https://christophm.github.io/interpretable-ml-book/
 
 **C. Ismay and A. Y. Kim: Statistical Inference via Data Science - A ModernDive into R and the tidyverse (2019 Ed.)**  
 https://moderndive.com/index.html
+
+
+**P. Biecek and T. Burzykowski: Explanatory Model Analysis - Explore, Explain and Examine Predictive Models (2020 Ed.)**  
+https://pbiecek.github.io/ema/
 
 <a id="general"></a>
 # General
